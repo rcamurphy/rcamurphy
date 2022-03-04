@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rcamurphy
-- 👀 I’m interested in cybersecurity
+- 👀 I’m a Cybersecurity Engineer
 
 <!---
 rcamurphy/rcamurphy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
